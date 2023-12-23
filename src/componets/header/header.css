@@ -1,0 +1,25 @@
+.h_main{
+    /* background-color: #d9d9e3; */
+    background-color: #0F52BA;
+
+color: #fff;
+}
+
+.header_main{
+    
+}
+
+
+
+
+
+.header_main span{
+    padding: 8px;
+    width: auto;
+    border: 1px solid ;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    text-wrap: nowrap;
+    
+}

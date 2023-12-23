@@ -1,0 +1,24 @@
+
+.search_main .search_container {
+
+    width: 100%;
+    height: 45px;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: flex;
+    border: 1px solid #ffb700;
+
+}
+
+.search_main .search_container input {
+    padding: 7px;
+    width: 100%;
+    margin: 0;
+    border: 3px solid #ffb700;
+    border-radius: 5px;
+}
+
+.search_main .search_container input:focus {
+    outline: none;
+
+}

@@ -1,0 +1,39 @@
+.navbar-wrapper {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0%;
+    z-index: 1000; 
+    background-color: #0F52BA !important;
+
+    /* box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px; */
+  }
+  
+  .row1 {
+    display: flex;
+  }
+  @media screen and (max-width: 769px) {
+    .hidden {
+      display: none !important;
+    }
+  }
+  .hiddenNav {
+    display: none;
+  }
+  @media screen and (max-width: 769px) {
+    .hiddenNav {
+      cursor: pointer;
+      display: block !important;
+    }
+  }
+  
+  .activeLink {
+    color: #FAF9F6
+
+  }
+  .link{
+    list-style: none !important;
+    border-bottom: #0F52BA !important;
+    text-decoration: none; 
+    color: #FAF9F6 
+  }
+  
