@@ -9,7 +9,7 @@ const CustomDrawer = ({ open, onClose }) => {
         <Drawer anchor="right" open={open} onClose={onClose}>
             <Box
                 sx={{
-                    width: 250, height: "100vh", backgroundColor: '#d9d9e3', color: "#  ",
+                    width: 250, height: "100vh", backgroundColor: '#003b95', color: "#FAF9F6",
                 }}
                 role="presentation"
             >

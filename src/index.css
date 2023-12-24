@@ -1,13 +1,18 @@
  /* #0F52BA */
+ :root {
+     --theme-color: #003b95;
+     --text-theme-color: #FAF9F6;
+     --btn-theme-color: #006ce4;
+ }
 
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Blinker-Black",sans-serif;
-    
-}
-body{
-   
-}
+
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: "Blinker-Black", sans-serif;
+
+ }
+
+ body {}
