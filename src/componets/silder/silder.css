@@ -76,3 +76,11 @@
     font-size: 40px;
     line-height: normal;
   }
+
+.silder_main button{
+background-color: var(--btn-theme-color);
+color: var(--text-theme-color);
+border: none;
+outline: none;
+border-radius: 5px;
+  }

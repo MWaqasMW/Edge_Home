@@ -9,7 +9,7 @@ const Header = () => {
     return (
         <>
             <Navbar />
-            <div className="h_main">
+            <div className="h_main overflow-hidden">
             <div className='container header_main'>
                 <div className="row m-0 p-0">
                     <span className='d-flex gap-1 col-2 align-items-center'>

@@ -1,11 +1,11 @@
 import Header from "../../componets/header/Header"
-import "./hotel.css"
-const Hotel = () => {
+import "./service.css"
+const Service = () => {
   return (
     <div>
-      <Header/>
+       <Header/>
     </div>
   )
 }
 
-export default Hotel
+export default Service

@@ -69,7 +69,7 @@ const Navbar = () => {
                 Home
               </NavLink>
               <NavLink
-                to="/services"
+                to="/service"
                 onClick={scrollToTop}
                 className={activeLink === "/services" ? "activeLink" : "link"}
               >

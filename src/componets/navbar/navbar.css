@@ -4,7 +4,7 @@
     top: 0%;
     z-index: 1000; 
     background-color: var(--theme-color) !important;
-
+width: 100% !important;
     /* box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px; */
   }
   

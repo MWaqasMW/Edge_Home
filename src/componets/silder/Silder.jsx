@@ -9,7 +9,7 @@ const Silder = () => {
                         A Life time discount? it's Genius
                     </h2>
                     <p>Get rewarded for you - unlock instant of 10% or more with a free EadgBooking account</p>
-                    <button className="p-2 btn bg-primary">Sign In/Register</button>
+                    <button className="p-2 ">Sign In/Register</button>
                 </div>
             </div>
             <Serach />

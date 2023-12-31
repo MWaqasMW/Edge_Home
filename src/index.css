@@ -3,8 +3,14 @@
      --theme-color: #003b95;
      --text-theme-color: #FAF9F6;
      --btn-theme-color: #006ce4;
+     --border-theme: #ffb700;
+     --dark-theme:#00224F;
+
  }
 
+
+
+ 
 
 
  * {
@@ -15,4 +21,4 @@
 
  }
 
- body {}
+ 
