@@ -1,0 +1,28 @@
+.seach_list_container{
+    height: auto;
+   width: 360px;
+   min-width: 280px;
+    position: sticky;
+    top: 20%;
+    color: var(--theme-color);
+    background-color: gray;
+    border-radius: 7px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.seach_list_container label{
+    font-size: 22px;
+}
+.seach_list_container input{
+width: 100%;
+padding: 10px 20px;
+border-radius: 7px;
+border: 1px solid var(--border-theme);
+outline: none;
+
+}
+
+@media only screen and (max-width: 767px) {
+    .seach_list_container{
+        display: none;
+    }
+  }

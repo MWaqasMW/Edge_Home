@@ -3,8 +3,6 @@ import Home from "../pages/home/Home"
 import List from "../pages/list/List"
 import Hotel from "../pages/hotel/Hotel"
 import Service from "../pages/service/Service"
-
-
 const AppRouter = () => {
   return (
     <BrowserRouter>
