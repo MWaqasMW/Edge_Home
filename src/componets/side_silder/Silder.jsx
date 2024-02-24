@@ -5,7 +5,6 @@ import 'slick-carousel/slick/slick-theme.css';
 import Slider from "react-slick";
 import { useEffect, useState } from "react";
 const Silder = (prop) => {
-
     const [screenWidth, setScreenWidth] = useState(window.screen.width);
     const [screenHeight, setScreenHeight] = useState(window.screen.height);
     const { data, sildes } = prop
@@ -25,11 +24,6 @@ const Silder = (prop) => {
             window.removeEventListener('resize', updateScreenSize);
         };
     }, []);
-
-
-
-
-
 
 
 
